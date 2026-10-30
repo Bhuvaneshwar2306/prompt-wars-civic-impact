@@ -518,5 +518,19 @@
         "longitude": 77.594,
         "status": "Submitted",
         "is_duplicate": true
+    },
+    {
+        "id": "REP-1041",
+        "description": "hjvjyegfi",
+        "category": "Public Utility",
+        "summary": "Routine infrastructural utility report.",
+        "priority": "Low",
+        "reasoning": "SYSTEM NOTICE: Duplicate position match detected. Linked to parent task REP-1005.",
+        "action_brief": "OPERATIONAL BRIEF: Queue for routine maintenance assessment rotation.",
+        "latitude": 12.9716,
+        "longitude": 77.5946,
+        "status": "Submitted",
+        "is_duplicate": true,
+        "duplicate_of": "REP-1005"
     }
 ]
